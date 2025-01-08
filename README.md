@@ -1,2 +1,2 @@
 # um-demo
-This is demo repo use for Git or Gihub.
+This is demo repo use for Git or Gihub.no
